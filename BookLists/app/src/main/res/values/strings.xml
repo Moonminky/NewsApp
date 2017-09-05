@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BookLists</string>
+    <string name="editable_placeholder">Enter your search term here!</string>
+    <string name="searchButtonText">search</string>
+    <string name="no_books">No books found.</string>
+    <string name="no_internet">No internet connection.</string>
+    <string name="ToastMessage">Please enter a topic!</string>
+</resources>
